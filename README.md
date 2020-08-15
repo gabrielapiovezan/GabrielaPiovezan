@@ -1,17 +1,26 @@
 ## Welcome :speech_balloon:
 
-<img width="200px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" />
 
-## Gabriela Piovezan Mendonça [<img src="https://img.icons8.com/plasticine/40/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/)
+
+<img width="200px" src="https://m.gifmania.co.uk/Walt-Disney-Animated-Gifs/Animated-Pixar-Movies/Wall-E/Wall-E-Hanging-82777.gif" />
+
+
+### Gabriela Piovezan Mendonça 
+
 - Estudante Front-End na Laboratória 💻
 - Tecnólogo em Eletrônica Industrial :bulb:
 - Técnico em Mecatrônica 🤖
 - Design Gráfico 🎨
 
+ 
+ 
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/)
+
+<!--
 ![gabrielapiovezan's github stats](https://github-readme-stats.vercel.app/api?username=GabrielaPiovezan&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielapiovezan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 <!--
