@@ -5,16 +5,14 @@
 <img width="200px" src="https://m.gifmania.co.uk/Walt-Disney-Animated-Gifs/Animated-Pixar-Movies/Wall-E/Wall-E-Hanging-82777.gif" />
 
 
-### Gabriela Piovezan Mendonça 
+### Gabriela Piovezan Mendonça  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/)<img width="50" src="https://64.media.tumblr.com/tumblr_mbrfv16TZj1r9y3da.gif" />
 
-- Estudante Front-End na Laboratória 💻
-- Tecnólogo em Eletrônica Industrial :bulb:
-- Técnico em Mecatrônica 🤖
-- Design Gráfico 🎨
+- 💻 Estudante Front-End na Laboratória 
+- :bulb: Tecnólogo em Eletrônica Industrial 
+- 🤖 Técnico em Mecatrônica 
+- 🎨 Design Gráfico 
 
- 
- 
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/)
+
 
 <!--
 ![gabrielapiovezan's github stats](https://github-readme-stats.vercel.app/api?username=GabrielaPiovezan&show_icons=true&theme=synthwave)
