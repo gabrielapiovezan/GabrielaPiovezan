@@ -2,8 +2,7 @@
 
 <img width="200px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" />
 
-## Gabriela Piovezan Mendonça [<img src="https://img.icons8.com/plasticine/40/000000/linkedin.png"/>]https://www.linkedin.com/in/gabrielapiovezan/)
-
+## Gabriela Piovezan Mendonça [<img src="https://img.icons8.com/plasticine/40/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/)
 - Estudante Front-End na Laboratória 💻
 - Tecnólogo em Eletrônica Industrial :bulb:
 - Técnico em Mecatrônica 🤖
