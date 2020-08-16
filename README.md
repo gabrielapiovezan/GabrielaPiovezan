@@ -9,7 +9,7 @@
 - 💻 Estudante Front-End na Laboratória 
 - :bulb: Tecnólogo em Eletrônica Industrial 
 - 🤖 Técnico em Mecatrônica 
-- 🎨 Design Gráfico 
+- 🎨 Técnico em Design Gráfico 
 
 
 
