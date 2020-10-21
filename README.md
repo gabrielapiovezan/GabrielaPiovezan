@@ -6,7 +6,7 @@
 
 
 ###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/) Gabriela Piovezan Mendonça 
-- 💻 Estudante Front-End na Laboratória 
+- 💻 Desenvolveroda Front-End 
 - :bulb: Tecnólogo em Eletrônica Industrial 
 - 🤖 Técnico em Mecatrônica 
 - 🎨 Técnico em Design Gráfico 
