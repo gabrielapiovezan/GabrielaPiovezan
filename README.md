@@ -6,7 +6,7 @@
 
 
 ###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/) Gabriela Piovezan Mendonça 
-- 💻 Desenvolveroda Front-End 
+- 💻 Desenvolveroda Back-End 
 - :bulb: Tecnólogo em Eletrônica Industrial 
 - 🤖 Técnico em Mecatrônica 
 - 🎨 Técnico em Design Gráfico 
