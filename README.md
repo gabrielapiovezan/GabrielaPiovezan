@@ -7,14 +7,15 @@
 
 ###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/) Gabriela Piovezan Mendonça 
 - 💻 Desenvolveroda Back-End 
+- 📓 Cursando MBA em Engenharia de Software
 - :bulb: Tecnólogo em Eletrônica Industrial 
 - 🤖 Técnico em Mecatrônica 
 - 🎨 Técnico em Design Gráfico 
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielapiovezan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+--!>
 
 
 <!--
