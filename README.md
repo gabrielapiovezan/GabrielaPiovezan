@@ -2,7 +2,7 @@
 
 
 
-<img width="200px" src="https://m.gifmania.co.uk/Walt-Disney-Animated-Gifs/Animated-Pixar-Movies/Wall-E/Wall-E-Hanging-82777.gif" />
+<!-- <img width="200px" src="https://m.gifmania.co.uk/Walt-Disney-Animated-Gifs/Animated-Pixar-Movies/Wall-E/Wall-E-Hanging-82777.gif" /> -->
 
 
 ###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/) Gabriela Piovezan Mendonça 
