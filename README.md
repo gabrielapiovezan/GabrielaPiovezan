@@ -7,7 +7,7 @@
 
 ###  [<img src="https://img.icons8.com/color/30/000000/linkedin.png">](https://www.linkedin.com/in/gabrielapiovezan/) Gabriela Piovezan Mendonça 
 - 💻 Java Software Engineer
-- 📓 Cursando MBA em Engenharia de Software
+- 📓 MBA em Engenharia de Software
 - :bulb: Tecnólogo em Eletrônica Industrial 
 - 🤖 Técnico em Mecatrônica 
 - 🎨 Técnico em Design Gráfico 
